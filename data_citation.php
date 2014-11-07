@@ -5,6 +5,8 @@
 	<h1>Data Citation</h1>
 </div>
 <div data-spy="scroll" class="container" data-target="dmp">
+	<div class="col-12 col-md-12 col-lg-12">
+		<div class="service">
 <p>
     <h2>Rationale:</h2> <p>The motivation for citing datasets and linking them to publications is: 1) to assign due credit for the data, 2) to aid readers in locating and accessing the data, and 3) to help track the impact of the data.</p>
 </p>
@@ -38,8 +40,8 @@
 
 
  	
-
-</div>
+</div> <!-- service -->
+</div> <!-- col-12 -->
 </div> <!-- /container -->
 
 
