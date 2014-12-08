@@ -2,7 +2,7 @@
 
 <!-- Begin page content -->
 <div class="page-header">
-	<h1>Learning About Data Management</h1>
+	<p class="lead">Learning About Data Management</p>
 </div>
 <div data-spy="scroll" class="container" data-target="dmp">
     <div class="col-12 col-md-12 col-lg-12">
@@ -23,8 +23,8 @@
           <div class="service">
             <h2>WSU presentations on research data management/sharing</h2>
             <hr/>
-                <p><a href="https://drive.google.com/file/d/0BysoN5zUDlreN0NtMEpsa3hwMEE/view">Overview & library support for data management/sharing</a>. <em>Professional & Academic Development (PAD) Seminar.</em></p>
-                <p><a href="https://drive.google.com/file/d/0BysoN5zUDlreZXM3dlRMOW82blE/view">Library resources and services for grant development</a>. <em>Research Administrators Meeting.</em></p>
+                <p><a href="http://www.slideshare.net/rds-wayne-edu/overview-and-library-support-41365194">Overview & library support for data management/sharing</a>. <em>Professional & Academic Development (PAD) Seminar.</em></p>
+                <p><a href="http://www.slideshare.net/rds-wayne-edu/data-management-for-grants-slideshare-41365360">Library resources and services for grant development</a>. <em>Research Administrators Meeting.</em></p>
           </div>
         </div>
 
@@ -36,7 +36,7 @@
           <div class="service">
             <h2>WSU policies on research data management/sharing</h2>
             <hr/>
-                <p>Ever wonder if the university has a policy on data ownership? Or how export control regulations might affect the publication of your research data?  Consult <a href="https://drive.google.com/file/d/0BysoN5zUDlreOE5vaV9yTVk2NGc/view">our summary of WSU policies on data management/sharing</a>.</p>
+                <p>Ever wonder if the university has a policy on data ownership? Or how export control regulations might affect the publication of your research data?  Consult <a href="http://rds.wayne.edu/pdf/WSU_Research_Data_Policies_v5.pdf">our summary of WSU policies on data management/sharing</a>.</p>
           </div>
         </div>
 

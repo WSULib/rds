@@ -50,6 +50,7 @@ margin-left: -35px;
 #footer {
   height: 60px;
  // background-color: #f5f5f5;
+ text-align: center;
 }
 
 
@@ -95,9 +96,10 @@ img {
 
 .lead {
   margin: 5px 0;
-  padding: 15px;
-  font-size: 24px;
-  background-color: #0C5449;
+  /*padding: 15px;*/
+  font-size: 40px;
+  /*font-size: 24px;*/
+  background-color: #0e6356;
   color: #fff;
   text-align: center;
   text-shadow: 1px 1px 1px #222;
@@ -129,6 +131,36 @@ img {
   margin-right: 15px;
 }
 .news-header span:after {
+  left: 100%;
+  margin-left: 15px;
+}
+
+.contact-header {
+  line-height: 0.5;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Oswald";
+  margin-top: 30px;
+}
+.contact-header span {
+  display: inline-block;
+  position: relative;  
+}
+.contact-header span:before,
+.contact-header span:after {
+  content: "";
+  position: absolute;
+  height: 5px;
+  border-bottom: 1px solid #666;
+  border-top: 1px solid #666;
+  top: 0;
+  width: 600px;
+}
+.contact-header span:before {
+  right: 100%;
+  margin-right: 15px;
+}
+.contact-header span:after {
   left: 100%;
   margin-left: 15px;
 }
@@ -220,6 +252,7 @@ h3 {
   margin-top: 10px;
   padding: 0 15px;
   font-size: 11px;
+  text-align: center;
 }
 
 .tall {
@@ -565,6 +598,8 @@ p.lead {
 
 .dmp_ex {
     height: 158px;
+    width:100%;
+    margin-left:-15px;
   }
 
 .bb {

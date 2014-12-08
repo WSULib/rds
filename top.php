@@ -44,21 +44,10 @@
               <span class="icon-bar"></span>
             </button>
             <!-- <a class="navbar-brand icon-flipped" href="index.php"><span class="glyphicon glyphicon-hdd" id="rotate" ></span></a> -->
-            <a class="navbar-brand" href="index.php"><img src="images/logo.png" alt="" height="90"/></a>
+            <a class="navbar-brand" href="index.php"><img src="images/RDS-K.png" alt="" height="65"/></a>
           </div>
           <div class="collapse navbar-collapse pull-right">
             <ul class="nav navbar-nav">
-              <!-- <li><a href="#">What do we want here?</a></li> -->
-              <!-- <li><a href="basics.php">Research Data Basics</a></li> -->
-              <!-- <li><a href="https://dmptool.org/user_sessions/institution">DMPTool??</a></li> -->
-<!--               <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown"> Tools <b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                  <li><a href="tree.php">Tool 1</a></li>
-                  <li><a href="checklist.php">Research Data Checklist</a></li>
-                </ul>
-              </li> -->
-              <!-- <li><a href="blackboard.php">Where to Archive Data</a></li> -->
               <li><a href="http://blogs.wayne.edu/rdslib/" target="_blank">Blog</a></li>
               <li><a href="contact.php">Contact Us</a></li>
             </ul>

@@ -2,21 +2,24 @@
 
 <!-- Begin page content -->
 <div class="page-header">
-	<h1>Contact Us</h1>
+	<p class="lead">Contact Us
+  </p>
 </div>
 <div class="container">
 
         <div class="container team">
           <div class="row">
           	<div class="col-lg-12">
-          		<div class="col-lg-4 col-sm-4">
-          		</div>
-          		<div class="col-lg-4 col-sm-4">
-          			<h2 style="font-size:30px;">Research Data Services</h2>
-          			<h2 style="font-size:25px;"><a href="mailto:rds@wayne.edu">rds@wayne.edu</a></h2><br/>
-          		</div>
-          		<div class="col-lg-4 col-sm-4">
-          		</div>
+<!--               <div class="col-lg-6 col-sm-6">
+              </div>
+          		<div class="col-lg-6 col-sm-6"> -->
+          			<h2 style="text-align:center; text-transform: uppercase; font-family: Oswald;">Questions?</h2>
+          			<h2 style="text-align:center; font-family: Oswald;"><a style="color:black;" href="mailto:rds@wayne.edu">rds@wayne.edu</a></h2><br/>
+          		<!-- </div> -->
+<!--               <div class="col-lg-4 col-sm-4">
+              </div>
+          		<div class="col-lg-6 col-sm-6">
+          		</div> -->
           	</div>
           </div> <!-- row -->
           	<hr/>

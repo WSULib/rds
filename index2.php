@@ -1,8 +1,22 @@
 <?php include('top.php'); ?>
 
 <!-- Begin page content -->
-    
+  <style>
+  .lead {
+     color: #CCA500;
+  }
+  .service {
+    background: #DAD6BD;
+  }
+  .blog {
+    background: #DAD6BD;    
+  }
+  a.navbar-brand img {
+    /*display: none;*/
+  }  
+  </style>  
     <div class="page-header">
+      <h1>Research Data Services</h1>          
       <p class="lead">Research Data Support by the Wayne State University Library System</p>
     </div>
  
@@ -40,12 +54,12 @@
 
       <div class="container">
         <div class="row">
-          <h2 class="news-header"><span><a href="http://blogs.wayne.edu/rdslib/" target="_blank">Latest News from Our Blog</a></span></h2>
+          <h2 class="news-header"><span><a href="http://blogs.wayne.edu/rdslib/" target="_blank">Latest News from Our Blog &raquo;</a></span></h2>
           <script>
           var rss = $.ajax({
             type: "POST",
             url: "rss.php",
-            timeout: 4000,
+            timeout: 3000,
             dataType: "html"
         });
 

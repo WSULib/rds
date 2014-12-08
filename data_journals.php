@@ -2,24 +2,16 @@
 
 <!-- Begin page content -->
 <div class="page-header">
-    <h1>Data Journals</h1>
+    <p class="lead">Data Journals</p>
 </div>
 <div data-spy="scroll" class="container" data-target="dmp">
     <div class="row">
         <div class="col-12 col-md-12 col-lg-12">
           <div class="service">
-<!--             <row class="row">
-                <ul>
-                    <h2>Testing</h2><br/>
-                    <li><a href="http://journals.iucr.org/e/">Acta Crystallographica E: Structure Reports Online</a> </li>
-                    <li><a href="http://www.journals.elsevier.com/atomic-data-and-nuclear-data-tables/">Atomic Data and Nuclear Data Tables</a></li>
-                    <li><a href="http://biodiversitydatajournal.com/">Biodiversity Data Journal</a></li>
-                </ul>
-            </row> -->
-            <!-- <hr> -->
             <row class="row">
                 <h2><a name="general_sci">General science journals</a></h2><br/>
                 <ul>
+                    <li><a href='http://www.journals.elsevier.com/data-in-brief/'>Data in Brief</a></li>
                     <li><a href='http://www.hindawi.com/journals/dpis/'>Dataset Papers in Science</a></li>
                     <li><a href='http://f1000research.com/'>F1000 Research</a></li>
                     <li><a href='http://www.gigasciencejournal.com/'>Gigascience</a></li>
@@ -52,6 +44,7 @@
                 <h2><a name="biomedical">Biomedical journals</a></h2><br/>
                 <ul>
                     <li><a href='http://biomed-data.eu/'>Biomedical Data Journal</a></li>
+                    <li><a href='http://www.biomedcentral.com/bmcbiol'>BMC Biology</a></li>
                     <li><a href='http://www.biomedcentral.com/bmcbioinformatics'>BMC Bioinformatics</a></li>
                     <li><a href='http://www.biomedcentral.com/bmcbiophys'>BMC Biophysics</a></li>
                     <li><a href='http://www.biomedcentral.com/bmcbiotechnol'>BMC Biotechnology</a></li>
@@ -149,7 +142,7 @@
             <row class="row">
                 <h2><a name="robotics">Robotics journals</a></h2><br/>
                 <ul>
-                    <li><a href='http://www.ijrr.org/'>International Journal of Robotic Research</a></li>
+                    <li><a href='http://www.ijrr.org/'>International Journal of Robotics Research</a></li>
                 </ul>
             </row>
             <row class="row">

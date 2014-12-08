@@ -7,13 +7,13 @@
 </script>
 <!-- Begin page content -->
 <div class="page-header">
-	<h1>Data Management Planning</h1>
+	<p class="lead">Data Management Planning</p>
 </div>
 <div data-spy="scroll" class="container" data-target="dmp">
       <div class="row">
         <div class="col-12 col-md-12 col-lg-12">
         <div class="col-6 col-md-6 col-lg-6">
-          <div class="dmp_ex">
+          <div style="margin-left:-15px;" class="dmp_ex">
             <h2>We can help:</h2>
             <hr>
             <ul>
@@ -21,7 +21,6 @@
             	<li>Identify appropriate repositories/archives for your research data</li>
             	<li>Provide training or information about data management planning to faculty members</li>
             </ul>
-            <br/>
           </div>
         </div>
 
@@ -29,19 +28,12 @@
         </div>
 
         <div class="col-4 col-md-4 col-lg-4">
-          <div class="dmp_ex">
+          <div style="width:100%;" class="dmp_ex image">
             <h2>DMPTool</h2>
-            <!-- <h2>DMPTool&nbsp;&nbsp;<sup><span style="color:black; font-size:10px;" class="glyphicon glyphicon-question-sign" data-toggle="tooltip" data-placement="right" title="Walks you through each step of creating a data management plan. When you create an account, select “Wayne State University” from the drop-down menu."></span></sup></h2> -->
             <hr>
             <a href="https://dmptool.org/user_sessions/institution"><img src="images/DMPTlogo.png" /></a>
-            <br />
-            <br />
-            <!-- <p>A free online tool that walks you through each step of creating a data management plan. When you create an account, select “Wayne State University” from the drop-down menu.</p> -->
           </div>
         </div>
-<!--         <div class="col-2 col-md-2 col-lg-2">
-            <small><p>A free online tool that walks you through each step of creating a data management plan. When you create an account, select “Wayne State University” from the drop-down menu.</p></small>
-        </div> -->
     </div>
     </div> <!-- /row -->
 

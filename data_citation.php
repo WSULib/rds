@@ -2,7 +2,7 @@
 
 <!-- Begin page content -->
 <div class="page-header">
-	<h1>Data Citation</h1>
+	<p class="lead">Data Citation</p>
 </div>
 <div data-spy="scroll" class="container" data-target="dmp">
 	<div class="col-12 col-md-12 col-lg-12">

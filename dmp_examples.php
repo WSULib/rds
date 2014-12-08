@@ -2,7 +2,7 @@
 
 <!-- Begin page content -->
 <div class="page-header">
-	<h1>Examples of Data Management/Sharing Plans</h1>
+	<p class="lead">Examples of Data Management/Sharing Plans</p>
 </div>
 <div data-spy="scroll" class="container" data-target="dmp">
     <div class="row">
@@ -11,7 +11,7 @@
 			<row class="row">
 				<h2><a name="nih">National Institutes of Health</a></h2>
 				<ul>
-					<li><a href="https://drive.google.com/file/d/0BysoN5zUDlredm1xWENWRjZTYkk/view">Proteomics data</a> (with language specific to WSU)</li>
+					<li><a href="http://rds.wayne.edu/pdf/cala-1.pdf">Proteomics data</a> (with language specific to WSU)</li>
 					<li><a href="http://grants.nih.gov/grants/sharing_example_data_sharing_plan.doc">Genomics data</a> (provided by NIH)</li>
 					<li><a href="http://grants.nih.gov/grants/policy/data_sharing/data_sharing_guidance.htm#ex">Clinical data</a> (provided by NIH)</li>
 					<li><a href="http://grants.nih.gov/grants/policy/data_sharing/data_sharing_guidance.htm#ex">Public-use data</a> (provided by NIH)</li>
