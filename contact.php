@@ -25,21 +25,28 @@
           	<hr/>
 
           	<div class="row">
-            <div class="col-lg-4 col-sm-4"> 
+            <div class="col-lg-3 col-sm-3"> 
               <img class="img-circle hide" src="holder.js/140x140" alt="">
               <h5>Katherine Akers, Ph.D.</h5>
               <p>Biomedical Research Data Specialist<br/>
 			  <a href="mailto:katherine.akers@wayne.edu">katherine.akers@wayne.edu</a><br/>
 			  (313) 577-9593</p>
             </div>
-            <div class="col-lg-4 col-sm-4">
+            <div class="col-lg-3 col-sm-3">
               <img class="img-circle hide" src="holder.js/140x140" alt="">
               <h5>Cole Hudson, MA/MLIS</h5>
               <p>Digital Publishing Librarian<br/>
               <a href="mailto:cole.hudson@wayne.edu">cole.hudson@wayne.edu</a><br/>
               (313) 577-2659</p>
             </div>
-            <div class="col-lg-4 col-sm-4">
+            <div class="col-lg-3 col-sm-3">
+              <img class="img-circle hide" src="holder.js/140x140" alt="">
+              <h5>Alexandra Sarkozy, MSI</h5>
+              <p>Science Librarian<br/>
+              <a href="mailto:ff2662@wayne.edu">ff2662@wayne.edu</a><br/>
+              (313) 577-8672</p>
+            </div>
+            <div class="col-lg-3 col-sm-3">
               <img class="img-circle hide" src="holder.js/140x140" alt="">
               <h5>Jim Van Loon, MSME/MLIS</h5>
               <p>Science Librarian<br/>
